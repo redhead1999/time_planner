@@ -1,0 +1,1 @@
+C:\Users\YURY\Desktop\TimePlanner\buildsrc\src\test\java\com\aold\buildsrc\ExampleUnitTest.kt
